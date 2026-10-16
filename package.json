@@ -1,0 +1,9 @@
+{
+  "name": "An Vu QR",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "type": "module",
+  "dependencies": {
+    "uqr": "^0.1.3"
+  }
+}
